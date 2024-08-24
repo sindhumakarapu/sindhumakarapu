@@ -1,0 +1,66 @@
+Course Outcomes: 
+At the end of the Course, Student will be able to: 
+x Build static web pages using HTML 5 elements. 
+x Apply JavaScript to embed programming interface for web pages and also to perform Client side 
+validations. 
+x Build a basic web server using Node.js, work with Node Package Manager (NPM) and recognize 
+the need for Express.js. 
+x Develop JavaScript applications using typescript and work with document database using 
+MongoDB. 
+x Utilize Angular JS to design dynamic and responsive web pages. 
+UNIT-I: 
+HTML 5: Introduction to Web, Overview of Web Technologies, HTML - Introduction, HTML - Need, 
+Case-insensitivity, Platform-independency, DOCTYPE Declaration, Types of Elements, HTML Elements 
+- Attributes, Metadata Element, Sectioning Elements, Paragraph Element, Division and Span Elements, 
+List Element, Link Element, Character Entities, HTML5 Global Attributes, Creating Table Elements, 
+Table Elements : Colspan/ Rowspan Attributes, border, cellspacing and cellpadding attributes, Creating 
+Form Elements, Input Elements - Attributes, Color and Date Pickers, Select and Datalist Elements, 
+Editing Elements, Media, Iframe, Why HTML Security, HTML Injection, Clickjacking, HTML5 
+Attributes & Events Vulnerabilities, Local Storage Vulnerabilities, HTML5 - Cross-browser support, Best 
+Practices For HTML Web Pages. 
+UNIT-II: 
+JavaScript: Why we need JavaScript, What is JavaScript, Environment Setup, Working with Identifiers, 
+Type of Identifiers, Primitive and Non Primitive Data Types, Operators and Types of Operators, Types of 
+Statements, Non - Conditional Statements, Types of Conditional Statements, If and Switch Statements, 
+Types of Loops, Types of Functions, Declaring and Invoking Function, Arrow Function, Function 
+Parameters, Nested Function, Built-in Functions, Variable Scope in Functions, Working With Classes, 
+Creating and Inheriting Classes, In-built Events and Handlers, Working with Objects, Types of Objects, 
+Creating Objects, Combining and cloning Objects using Spread operator, Destructuring Objects, Browser 
+and Document Object Model, Creating Arrays, Destructuring Arrays, Accessing Arrays, Array Methods, 
+Introduction to Asynchronous Programming, Callbacks, Promises, Async and Await, Executing Network 
+Requests using Fetch API, Creating and consuming Modules. 
+UNIT-III: 
+Node.js: Why and What Node.js, How to use Node.js, Create a web server in Node.js, Node Package 
+Manager, Modular programming in Node.js, Restarting Node Application, File Operations. 
+Express.js: Express Development Environment, Defining a route, Handling Routes, Route and Query 
+Parameters, How Middleware works, Chaining of Middlewares, Types of Middlewares, Connecting to 
+MongoDB with Mongoose, Validation Types and Defaults, Models, CRUD Operations, API 
+Development, Why Session management, Cookies, Sessions, Why and What Security, Helmet 
+Middleware, Using a Template Engine Middleware, Stylus CSS Preprocessor. 
+ 
+R-20 Syllabus for CSE, JNTUK w. e. f. 2020 – 21 
+JAWAHARLAL NEHRU TECHNOLOGICAL UNIVERSITY KAKINADA 
+KAKINADA – 533 003, Andhra Pradesh, India 
+DEPARTMENT OF COMPUTER SCIENCE & ENGINEERING 
+UNIT-IV: 
+Typescript: Installing TypeScript, Basics of TypeScript, Function, Parameter Types and Return Types, 
+Arrow Function, Function Types, Optional and Default Parameters, Rest Parameter, Creating an 
+Interface, Duck Typing, Function Types, Extending Interfaces, Classes, Constructor, Access Modifiers, 
+Properties and Methods, Creating and using Namespaces, Creating and using Modules, Module Formats 
+and Loaders, Module Vs Namespace, What is Generics, What are Type Parameters, Generic Functions, 
+Generic Constraints. 
+MongoDB: Introduction Module Overview, Document Database Overview, Understanding JSON, 
+MongoDB Structure and Architecture, MongoDB Remote Management, Installing MongoDB on the local 
+computer (Mac or Windows), Introduction to MongoDB Cloud, Create MongoDB Atlas Cluster, GUI 
+tools Overview, Install and Configure MongoDB Compass, Introduction to the MongoDB Shell, 
+MongoDB Shell JavaScript Engine, MongoDB Shell JavaScript Syntax, Introduction to the MongoDB 
+Data Types, Introduction to the CRUD Operations on documents, Create and Delete Databases and 
+Collections, Introduction to MongoDB Queries. 
+UNIT-V: 
+What is Angular, Features of Angular, Angular Application Setup, Components and Modules, Executing 
+Angular Application, Elements of Template, Change Detection, Structural Directives - ngIf, ngFor, 
+ngSwitch, Custom Structural Directive, Attribute Directives - ngStyle, ngClass, Custom Attribute 
+Directive, Property Binding, Attribute Binding, Style and Event Binding, Built in Pipes, Passing 
+Parameters to Pipes, Nested Components Basics, Passing data from Container Component to Child 
+Component, Passing data from Child Component to ContainerComponent, Shadow DOM, Component 
+Life Cycle, Template Driven Forms, Model Driven Forms or Reactive Forms, Custom
